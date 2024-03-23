@@ -29,3 +29,6 @@ public class GroupButton : UdonSharpBehaviour
 
 No clue how to use U#? download my Repo, copy the folder "GroupButton into your assets follow above!
 * will do this tomorrow lmao
+
+
+Yes itr is that easy, fuck twitter's max letter limit without blue
