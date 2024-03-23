@@ -9,4 +9,23 @@ i will make this properly tomorrow but for now:
 - find you group ID (ex grp_0c89d633-b4e6-4359-8496-cb14ca80889b for myriad)
 - put group ID in group id field :D
 
-No clue how to use U#? download my "GroupButtons.cs", throw it into your assets folder and follow above!
+Code:
+```
+using UdonSharp;
+using UnityEngine;
+using VRC.SDKBase;
+using VRC.Udon;
+using VRC.Economy;
+
+public class GroupButton : UdonSharpBehaviour
+{
+    public string GroupIdentifier;
+    public void OpenGroupPageButton()
+    {
+        Store.OpenGroupPage(GroupIdentifier);
+    }
+}
+```
+
+No clue how to use U#? download my Repo, copy the folder "GroupButton into your assets follow above!
+* will do this tomorrow lmao
