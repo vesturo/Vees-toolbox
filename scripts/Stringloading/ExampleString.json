@@ -1,0 +1,9 @@
+{
+    "WorldPermissionLevels": {
+        "Staff": [],
+        "Artist": [],
+        "Dancer": [],
+        "Media": [],
+        "VIP": []
+    }
+}
