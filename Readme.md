@@ -10,7 +10,7 @@ i will make this properly tomorrow but for now:
 - put group ID in group id field :D
 
 Code:
-```
+```csharp
 using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
