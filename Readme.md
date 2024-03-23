@@ -3,6 +3,8 @@ Hi, repo for things i figure out :)
 i will make this properly tomorrow but for now:
 
 ## How 2 Group button:
+- ### MAKE A BACKUP
+- ## MAKE SURE YOUR BACKUP IS OKAY
 - Update your SDK to 3.5.1 or later
 - copy script
 - assign script to button
