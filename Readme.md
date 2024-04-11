@@ -1,17 +1,13 @@
 Hi, repo for things i figure out :)
 
-## How 2 Group button:
-- ### MAKE A BACKUP
-- ### MAKE SURE YOUR BACKUP IS OKAY
-- Update your SDK to 3.5.1 or later
-- copy the "OpenGroupPage" script
-- assign script to button
-- find you group ID (ex grp_0c89d633-b4e6-4359-8496-cb14ca80889b for myriad)
-- put group ID in group id field :D
-### No clue how to use U#? download my Repo, copy the folder "GroupButton into your assets follow above!
-
-## How 2 use Stringloader
-- The stringloader is made in a way that you can add both an untrusted URL and a Github link :) reason for that is that an Untrusted URL gives more freedom to update files faster, while Github Pages usually need a minute or two to re-deploy
+## Scripts in this Repository:
+### [VRChat Group join Button](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/CreatorEconomy)
+- Just a simple script to open a Group page inside of VRChat if you press the button!
+### [Advanced Stringloader](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/Stringloading)
+- Stringloader on Steroids, supporting Untrusted URLs on top of trusted URLs
+### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
+- Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
+### More to be added soonish
 
 
-
+Idk, [throw money at me if you like](https://ko-fi.com/vesturo) or make pull requests to add more cool stuff to this repo, both work for me c:
