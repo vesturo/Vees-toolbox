@@ -10,4 +10,4 @@ Hi, repo for things i figure out :)
 ### More to be added soonish
 
 
-Idk, [throw money at me if you like](https://ko-fi.com/vesturo) or make pull requests to add more cool stuff to this repo, both work for me c:
+Idk, [throw money at me if you like](https://ko-fi.com/vesturo), give it a star or make pull requests to add more cool stuff to this repo, both work for me c:
