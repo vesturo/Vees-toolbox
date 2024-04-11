@@ -5,7 +5,7 @@ Hi, repo for things i figure out :)
 - Just a simple script to open a Group page inside of VRChat if you press the button!
 ### [Advanced Stringloader](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/Stringloading)
 - Stringloader on Steroids, supporting Untrusted URLs on top of trusted URLs
-### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
+### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch) | NEW
 - Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
 ### More to be added soonish
 
