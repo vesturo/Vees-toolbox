@@ -17,6 +17,6 @@
 ### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [VeeOS - Multi Language System](https://ko-fi.com/vesturo/shop) | SOON
 - An all in one solution to make your world multi-lang!
 ### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [Smart Fridge](https://vesturo.booth.pm/items/4983505) | SOON
-- a Fridge with a local Clock, playerlist and optional settings panel. Created this as a prop for my homeworld to avoid an ugly Settings panel floating around somewhere!
+- a Fridge with a local Clock, playerlist and optional settings panel. Created this as a prop for my homeworld to avoid an Settings panel floating around!
 
 Idk, [throw money at me if you like](https://ko-fi.com/vesturo), give it a star or make pull requests to add more cool stuff to this repo, both work for me c:
