@@ -9,7 +9,7 @@
 
 
 # Useful stuff by me in other Repositories:
-### [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch) | NEW
+### [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch) | ![alt text](https://img.shields.io/badge/NEW-8A2BE2)
 - A Simple Github Page to host your posters for VRChat Worlds!
 
 
