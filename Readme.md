@@ -9,5 +9,12 @@ Hi, repo for things i figure out :)
 - Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
 ### More to be added soonish
 
+## Useful stuff by me in other Repositories:
+### [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch) | NEW
+- A Simple Github Page to host your posters for VRChat Worlds!
+
+- ## Useful stuff by me that i don't offer for free:
+### [VeeOS - Multi Language System]([https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch](https://ko-fi.com/vesturo/shop)) | SOON
+- An all in one solution to make your world multi-lang!
 
 Idk, [throw money at me if you like](https://ko-fi.com/vesturo), give it a star or make pull requests to add more cool stuff to this repo, both work for me c:
