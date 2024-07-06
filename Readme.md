@@ -17,7 +17,7 @@
 
 # Useful stuff by me that i don't offer for free:
 ### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [Translation Toolkit](https://vesturo.gumroad.com/l/veeos-toolkit)
-- An all in one solution to make your world multi-lang!
+- A simple all in one toolkit to manage translations!
 ### [Smart Fridge](https://vesturo.gumroad.com/l/zmjud)
 - a Fridge with a local Clock, playerlist and optional settings panel.
 
