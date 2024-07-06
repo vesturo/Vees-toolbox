@@ -9,8 +9,8 @@
 
 
 
-# Useful stuff by me in other Repositories:
-### [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
+# other useful repositories Repositories:
+### [VRC Image Deployer](https://github.com/vesturo/vrc-image-deployer)
 - A Simple Github Page to host your posters for VRChat Worlds!
 
 
