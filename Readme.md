@@ -7,7 +7,7 @@
 ### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
 - Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
 ### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [VideoTXL UrlSwitcher (interact & ui compatible)](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/VideoTXL/URLSwitcher)
-- Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
+- Just two small scripts to make switching between hardcoded URLs easier
 
 
 # other useful repositories Repositories:
