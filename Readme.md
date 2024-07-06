@@ -14,9 +14,9 @@
 
 
 # Useful stuff by me that i don't offer for free:
-### ![alt text](https://img.shields.io/badge/SOON-8A2BE2) [VeeOS - Multi Language System](https://ko-fi.com/vesturo/shop)
+### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [Translation Toolkit](https://vesturo.gumroad.com/l/veeos-toolkit)
 - An all in one solution to make your world multi-lang!
-### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [Smart Fridge](https://vesturo.booth.pm/items/4983505)
+### [Smart Fridge](https://vesturo.gumroad.com/l/zmjud)
 - a Fridge with a local Clock, playerlist and optional settings panel.
 
 Idk, [throw money at me if you like](https://ko-fi.com/vesturo), give it a star or make pull requests to add more cool stuff to this repo, both work for me c:
