@@ -1,15 +1,16 @@
+[![Last Updated - 6th June 2024](https://img.shields.io/static/v1?label=Last+Updated&message=6th+June+2024&color=8A2BE2)](https://)
 # Scripts in this Repository:
 ### [VRChat Group join Button](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/CreatorEconomy)
 - Just a simple script to open a Group page inside of VRChat if you press the button!
 ### [Advanced Stringloader](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/Stringloading)
 - Stringloader on Steroids, supporting Untrusted URLs on top of trusted URLs
-### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
+### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
 - Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
 
 
 
 # Useful stuff by me in other Repositories:
-### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
+### [VRC Image Deployer](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
 - A Simple Github Page to host your posters for VRChat Worlds!
 
 
