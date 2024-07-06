@@ -6,7 +6,8 @@
 - Stringloader on Steroids, supporting Untrusted URLs on top of trusted URLs
 ### [PostProcessing Switcher for ProTV 3.0.0+ & VideoTXL](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/PostProcessing%20Switch)
 - Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
-
+### ![alt text](https://img.shields.io/badge/NEW-8A2BE2) [VideoTXL UrlSwitcher (interact & ui compatible)](https://github.com/vesturo/VRC-Scripts-by-Vee/tree/main/scripts/VideoTXL/URLSwitcher)
+- Switches between two PP profiles depending on if a video is playing or not! (this has prefabs included)
 
 
 # other useful repositories Repositories:
